@@ -8,14 +8,13 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 ## Participantes
 ### 🚀 Líder Técnico
-* [Eliane Henriqueta]([https://github.com/Elianehenri](https://github.com/Elianehenri/desafio-caca-aos-bugs.git))
+[Eliane Henriqueta](https://github.com/Elianehenri/desafio-caca-aos-bugs.git)
+
 
 
 ### 👻 Caçadores de Bugs
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+[Eliane Henriqueta](https://github.com/Elianehenri/desafio-caca-aos-bugs.git)
+
 
 ## ⚙️ Tecnologias
 * C# 12
@@ -32,7 +31,27 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 * Muito conhecimento técnico
 
 ## 🧪 Como testar o projeto
-[DESCREVER COMO EXECUTAR O PROJETO]
+## 🧪 Como testar o projeto
 
+Para testar o projeto, siga os passos abaixo:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/Elianehenri/desafio-caca-aos-bugs.git
+
+   cd desafio-caca-aos-bugs
+   
+2. Instale as dependências: Se estiver usando o .NET, execute o comando a seguir para instalar as dependências necessárias:
+
+   ```bash
+   dotnet restore
+
+3. Execute os testes: Utilize o seguinte comando para executar todos os testes:
+
+     ```bash
+   dotnet test
+   
 # 💜 Participe
 Quer participar dos próximos desafios? Junte-se a [maior comunidade .NET do Brasil 🇧🇷 💜](https://balta.io/discord)
+
+
