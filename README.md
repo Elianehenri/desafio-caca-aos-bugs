@@ -8,7 +8,8 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 ## Participantes
 ### 🚀 Líder Técnico
-[NOME e GITHUB]
+* [Eliane Henriqueta]([https://github.com/Elianehenri](https://github.com/Elianehenri/desafio-caca-aos-bugs.git))
+
 
 ### 👻 Caçadores de Bugs
 * [NOME e GITHUB]
