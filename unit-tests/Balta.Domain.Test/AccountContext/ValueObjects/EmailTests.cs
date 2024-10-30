@@ -136,7 +136,7 @@ namespace Balta.Domain.Test.AccountContext.ValueObjects
             var result = (string)email;
 
             // Assert
-            Assert.Equal(emailString.ToLower(), result); // Compare com a versão em minúsculas
+            Assert.Equal(emailString.ToLower(), result); 
         }
         [Fact]
         public void ShouldReturnEmailWhenCallToStringMethod()
